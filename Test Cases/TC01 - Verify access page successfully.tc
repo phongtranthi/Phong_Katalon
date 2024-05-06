@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Verify access page successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e06a9a9-4f22-4828-ac0e-944fddd103ab</testCaseGuid>
+</TestCaseEntity>
